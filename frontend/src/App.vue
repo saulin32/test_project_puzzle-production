@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#FFFAFA]">
+  <div class="bg-[#FFFAFA] relative">
     <Layout />
     <div class="container mx-auto ">
       <RouterView />
